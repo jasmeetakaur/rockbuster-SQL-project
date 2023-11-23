@@ -10,12 +10,12 @@ The target of the project is to analyze the data sets of the company and find da
 * Which countries are Rockbuster customers based in?
 * Where are customers with a high lifetime value based?
 * Do sales figures vary between geographic regions?
-### Data sets provided in the project brief
+### Data sets 
 Fact tables 
-* Payment
-* Rental 
+* payment
+* rental 
 
-Dimensions Table
+Dimensions tables
 * customer
 * staff
 * store
@@ -30,7 +30,8 @@ Dimensions Table
 * city 
 * country
 
-## Reprts/ Visualisations/ Images
-Rockbuster ERD
+## Entity Relationship Diagram
+
+
 <img width="675" alt="image" src="https://github.com/jasmeetakaur/rockbuster-SQL-project/assets/55865366/9b47ea44-3ee4-4007-80bf-296a3b0329c0">
 
