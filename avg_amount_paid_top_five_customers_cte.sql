@@ -37,4 +37,4 @@ ORDER BY total_ payment DESC
 LIMIT 5 
 )
 SELECT ROUND (AVG (total_payment),2) 
-FROM top_ amount_cte 
+FROM top_amount_cte 
