@@ -1,4 +1,4 @@
-With top_amount_cte(customer_id,address_id,city,country,total_payment) AS
+With top_amount_cte (customer_id,address_id,city,country,total_payment) AS
 (
 SELECT
 	A.customer_id,
